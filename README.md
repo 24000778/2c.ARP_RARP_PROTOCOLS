@@ -51,7 +51,8 @@ while True:
 
 ## OUPUT - ARP
 
-<img width="1412" height="884" alt="Screenshot 2025-09-29 111648" src="https://github.com/user-attachments/assets/e67299fb-6eff-4dda-a984-79878f578408" />
+<img width="1911" height="1108" alt="Screenshot 2025-10-06 110958" src="https://github.com/user-attachments/assets/99597694-0ecd-4fed-a407-c34b9f89a375" />
+
 
 
 ## PROGRAM - RARP
@@ -89,7 +90,7 @@ while True:
 
 ## OUPUT -RARP
 
-<img width="1035" height="208" alt="Screenshot 2025-09-29 112036" src="https://github.com/user-attachments/assets/7b665872-a6b4-477c-aad8-996abb45a9cb" />
+<img width="1919" height="1110" alt="Screenshot 2025-10-06 114402" src="https://github.com/user-attachments/assets/03d5d7d1-6aae-4d9a-beec-88e1af9dca0d" />
 
 
 ## RESULT
